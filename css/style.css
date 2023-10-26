@@ -45,7 +45,7 @@ address {
 .container-header {
     display: flex;
     align-items: center;
-    /*border: 1px solid #f70707;*/
+    border: 1px solid #f70707;
     border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
     background: var(--WHITE, #FFF);
 }
@@ -209,7 +209,7 @@ address {
 
 .features {
     padding: 120px 0;
-    /*border: 1px solid #f70707;*/
+    border: 1px solid #f70707;
 }
 
 .features-title {
@@ -228,7 +228,7 @@ address {
 .features-list {
     display: flex;
     gap: 24px;
-    /*border: 1px solid #f70707;*/
+    border: 1px solid #f70707;
 }
 
 .features-list-item {
@@ -269,7 +269,7 @@ address {
 .team {
     background-color: #F4F4FD;
     padding: 120px 0px;
-    /*border: 1px solid #f70707;*/
+    border: 1px solid #f70707;
 }
 
 .team-title {
