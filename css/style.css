@@ -728,7 +728,7 @@ address {
     margin-bottom: 16px;
 }
 
-.user-comment {
+.user-commentt {
     width: 100%;
     height: 120px;
     font-size: 12px;
@@ -744,7 +744,7 @@ address {
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.user-comment:focus {
+.user-commentt:focus {
     border-color: #4D5AE5;
 }
 
@@ -797,6 +797,7 @@ address {
     background-color: var(--OCEAN, #404bbf);
     border: none;
     fill: #f4f4fd;
+    border-color: #404BBF;
 }
 
 .privacy-icon {}
